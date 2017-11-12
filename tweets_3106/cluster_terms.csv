@@ -1,0 +1,16 @@
+cluster, t1,t2,t3,t4,t5
+1,conservation ,new ,help ,protect ,sign
+2,species ,endangered ,new ,act ,help
+3,biodiversity ,loss ,australia ,worlds ,new
+4,endangered ,act ,protect ,species ,sign
+5,protect ,biodiversity ,conservation ,species ,worlds
+6,australia ,worlds ,biodiversity ,act ,endangered
+7,biodiversity ,conservation ,worlds ,australia ,loss
+8,biodiversity ,conservation ,loss ,new ,help
+9,protect ,species ,help ,new ,act
+10,endangered ,conservation ,species ,act ,help
+11,species ,loss ,australia ,conservation ,act
+12,species ,biodiversity ,conservation ,new ,endangered
+13,protect ,species ,endangered ,act ,help
+14,australia ,biodiversity ,loss ,new ,act
+15,conservation ,species ,new ,help ,protect
